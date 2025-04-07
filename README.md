@@ -1,2 +1,2 @@
 # worksheet_2
-cpp_project
+cpp_project solution of worksheet 2
